@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background-color: #313C74;
+}
+
+header {
+    background-color: #182257;
+}
+
+h1 {
+    color: #0A016F;
+    text-align: center;
+}
+
+.tg {
+    color: #0C0281;
+}
+
+h2 {
+    text-align: center;
+    color: #02092E;
+}
+
+.ta {
+    color: #0C0281;
+    text-align: left;
+}
+
+nav {
+    background-color: #6270BA;
+    padding: 20px 0px 20px 0px;
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px;
+    color: white;
+}
+
+a {
+    background-color: #8A97D9;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: #182257;
+    padding: 2px;
+}
+
+p {
+    background-color: white;
+}
+
+.fish {
+    width: 740px;
+    height: 490px;
+}
+
+header img {
+    width: 110px;
+    height: 100px;
+}
